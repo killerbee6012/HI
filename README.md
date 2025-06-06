@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Für Euch>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
